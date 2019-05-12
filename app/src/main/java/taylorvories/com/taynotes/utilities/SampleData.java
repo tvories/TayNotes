@@ -1,6 +1,6 @@
 package taylorvories.com.taynotes.utilities;
 
-import taylorvories.com.taynotes.model.NoteEntity;
+import taylorvories.com.taynotes.database.NoteEntity;
 import android.icu.util.Calendar;
 
 import java.util.ArrayList;

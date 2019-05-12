@@ -13,7 +13,7 @@ import java.util.List;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import taylorvories.com.taynotes.R;
-import taylorvories.com.taynotes.model.NoteEntity;
+import taylorvories.com.taynotes.database.NoteEntity;
 
 public class NotesAdapter extends RecyclerView.Adapter<NotesAdapter.ViewHolder> {
 
